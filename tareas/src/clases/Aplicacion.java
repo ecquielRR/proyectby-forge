@@ -47,11 +47,7 @@ public class Aplicacion {
         List<String> secuencia = Algoritmos.secuenciaFizzBuzz(limiteFizzBuzz);
         System.out.println("Secuencia FizzBuzz hasta " + limiteFizzBuzz + ":");
         System.out.println(secuencia);
-        // O para una salida más legible:
-        // for (String elemento : secuencia) {
-        //     System.out.print(elemento + " ");
-        // }
-        // System.out.println();
+       
     }
 }
 
