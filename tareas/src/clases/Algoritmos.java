@@ -48,7 +48,6 @@ public class Algoritmos {
         return resultado;
     }
     public static void main(String[] args) {
-        // Aquí puedes probar los métodos de la clase Algoritmos
         System.out.println("¿Es 10 par? " + esPar(10));
         System.out.println("¿Es 7 primo? " + esPrimo(7));
         System.out.println("La reversa de 'Hola' es: " + stringEnReversa("Hola"));
